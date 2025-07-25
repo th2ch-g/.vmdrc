@@ -1,0 +1,2 @@
+# .vmdrc
+VMD config file
